@@ -18,6 +18,12 @@ Demandas de negócio :computer:
 * **[DELETE] /:id** |Para deletar contato por numero de id. 
 
 ---
+
+### Demonstração no Postman: :arrow_forward:
+
+![API-POST-DELETE](http://g.recordit.co/3AIH53yub2.gif)
+
+--- 
 #### <p> **Autor(a)** </p>
 
 Feito com :heart: por Kamila Silva :crown: .
